@@ -4,3 +4,4 @@ Compilation : javac -encoding UTF-8 Facture.java
 Exécution : java Facture
 Exemple initial : 2 articles à 20 dollars donnent 40 dollars.
 Le nom du client est affiché avant le total.
+Des frais fixes de livraison de 5 $ s'ajoutent au total.
